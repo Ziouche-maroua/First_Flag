@@ -39,6 +39,6 @@ The flag is divided into **three parts**, and you'll need to **link them using u
 
 ## 🧩 Challenge Details
 
-- **Category:** Forensics (Primary), Cryptography (Secondary)  
+- **Category:** Forensics
 - **Difficulty:** Easy  
 - **Flag Format:** shellmates{} 
