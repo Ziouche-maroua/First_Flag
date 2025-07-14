@@ -29,6 +29,9 @@ The flag is divided into **three parts**, and you'll need to **link them using u
 ## 💡 Hints
 
 > *"Sometimes, it's not just about opening a file... it's about entering a system"*
+
+
+
 > *"Sometimes failures reveal more than successes."*  
 
 
